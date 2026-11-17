@@ -46,6 +46,10 @@ GitHub에서 `index.html` 을 누르면 책 대신 코드가 보입니다. 책�
 
 엮은이에게 권리가 있는 부분은 [CC BY-NC 4.0](LICENSE)입니다. 법령·판결 문언은 각국 저작권법(스웨덴 upphovsrättslagen 9 §, 덴마크 ophavsretsloven § 9, 노르웨이 åndsverkloven § 14)에 따라 보호 대상이 아닌 것을 옮겼습니다. 노르웨이 법령: Inneholder data under Norsk lisens for offentlige data (NLOD) tilgjengeliggjort av Lovdata. 옛 스웨덴어 법 말뭉치는 Språkbanken (2013), Fornsvenska textbankens material: Äldre lagar [Data set], CC BY 4.0 입니다. Lexin 자료에는 CC BY 4.0 의 저작자 표시 조건이 붙습니다. 이 책은 위 기관들이 만들거나 승인한 것이 아닙니다.
 
+## 일러두기
+
+이 저장소의 자료는 엮은이가 개인적으로 공부하며 엮은 것입니다. 엮은이가 속한 기관의 견해나 업무와는 관계가 없습니다. 법률 자문이 아닙니다.
+
 ---
 
 <a id="english"></a>
@@ -88,3 +92,7 @@ Bowon Kwon (comp.), *Domslut: Legal Swedish through the statutes*, public editio
 ## License
 
 The parts in which the compiler holds rights are licensed under [CC BY-NC 4.0](LICENSE). Statutes and judgments are reproduced as texts not protected by copyright under the respective national acts (Sweden: upphovsrättslagen 9 §; Denmark: ophavsretsloven § 9; Norway: åndsverkloven § 14). Norwegian statutes: Inneholder data under Norsk lisens for offentlige data (NLOD) tilgjengeliggjort av Lovdata. The Old Swedish law corpus is Språkbanken (2013), Fornsvenska textbankens material: Äldre lagar [Data set], CC BY 4.0. Lexin data carries the attribution terms of CC BY 4.0. This book was not made or endorsed by any of the institutions named above.
+
+## Note
+
+These are personal study materials and do not represent the views or work of any institution the compiler belongs to. Not legal advice.
